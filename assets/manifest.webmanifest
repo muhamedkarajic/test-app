@@ -2,8 +2,8 @@
   "name": "portfolio",
   "short_name": "portfolio",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "start_url": "/test-app/",
+  "scope": "/test-app/",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
